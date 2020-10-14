@@ -11,7 +11,7 @@ import java.util.Map;
 *
 * 用于：参数解析，Header，Param 处理
 * */
-public class XMap extends LinkedCaseInsensitiveMap<String> {
+public class XMap extends CaseInsensitiveMap<String> {
 
     public XMap() {
         super();

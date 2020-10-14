@@ -3,27 +3,30 @@ package org.noear.solon.core;
 import java.io.Serializable;
 import java.util.*;
 
+/**
+ * 不区分大小写的Map
+ * */
 @SuppressWarnings("serial")
-public class LinkedCaseInsensitiveMap<V> implements Map<String, V>, Serializable, Cloneable {
+public class CaseInsensitiveMap<V> implements Map<String, V>, Serializable, Cloneable {
 
     private final LinkedHashMap<String, V> _m;
     private final HashMap<String, String> _k;
     private final Locale locale;
 
-    public LinkedCaseInsensitiveMap() {
+    public CaseInsensitiveMap() {
         this(16, null);
     }
 
-    public LinkedCaseInsensitiveMap(int initialCapacity, Locale locale) {
+    public CaseInsensitiveMap(int initialCapacity, Locale locale) {
         this._m = new LinkedHashMap<String, V>(initialCapacity) {
             @Override
             public boolean containsKey(Object key) {
-                return LinkedCaseInsensitiveMap.this.containsKey(key);
+                return CaseInsensitiveMap.this.containsKey(key);
             }
 
             @Override
             protected boolean removeEldestEntry(Map.Entry<String, V> eldest) {
-                boolean doRemove = LinkedCaseInsensitiveMap.this.removeEldestEntry(eldest);
+                boolean doRemove = CaseInsensitiveMap.this.removeEldestEntry(eldest);
                 if (doRemove) {
                     _k.remove(convertKey(eldest.getKey()));
                 }
@@ -38,7 +41,7 @@ public class LinkedCaseInsensitiveMap<V> implements Map<String, V>, Serializable
      * Copy constructor.
      */
     @SuppressWarnings("unchecked")
-    private LinkedCaseInsensitiveMap(LinkedCaseInsensitiveMap<V> other) {
+    private CaseInsensitiveMap(CaseInsensitiveMap<V> other) {
         this._m = (LinkedHashMap<String, V>) other._m.clone();
         this._k = (HashMap<String, String>) other._k.clone();
         this.locale = other.locale;
@@ -139,8 +142,8 @@ public class LinkedCaseInsensitiveMap<V> implements Map<String, V>, Serializable
     }
 
     @Override
-    public LinkedCaseInsensitiveMap<V> clone() {
-        return new LinkedCaseInsensitiveMap<>(this);
+    public CaseInsensitiveMap<V> clone() {
+        return new CaseInsensitiveMap<>(this);
     }
 
     @Override
