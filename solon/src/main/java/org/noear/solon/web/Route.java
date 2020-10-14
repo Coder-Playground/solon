@@ -1,7 +1,6 @@
 package org.noear.solon.web;
 
 import org.noear.solon.core.XMethod;
-import org.noear.solon.web.PathAnalyzer;
 
 /**
  * 路由

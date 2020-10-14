@@ -2,7 +2,6 @@ package org.noear.solon.core;
 
 import org.noear.solon.XApp;
 import org.noear.solon.annotation.XNote;
-import org.noear.solon.core.XMethod;
 import org.noear.solon.transaction.XTranExecutor;
 import org.noear.solon.upstream.XUpstreamFactory;
 import org.noear.solon.web.*;
