@@ -3,8 +3,7 @@ package org.noear.solon.extend.data;
 import org.noear.solon.XUtil;
 import org.noear.solon.annotation.XCache;
 import org.noear.solon.annotation.XCacheRemove;
-import org.noear.solon.core.CacheService;
-import org.noear.solon.core.XBridge;
+import org.noear.solon.cache.CacheService;
 import org.noear.solon.ext.SupplierEx;
 
 import java.lang.reflect.Method;

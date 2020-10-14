@@ -1,7 +1,7 @@
 package org.noear.solon.extend.data;
 
 import org.noear.solon.annotation.XNote;
-import org.noear.solon.core.CacheService;
+import org.noear.solon.cache.CacheService;
 
 import java.util.ArrayList;
 import java.util.List;

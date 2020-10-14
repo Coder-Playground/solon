@@ -1,6 +1,6 @@
 package org.noear.solon.annotation;
 
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.XHandler;
 import java.lang.annotation.*;
 
 /**

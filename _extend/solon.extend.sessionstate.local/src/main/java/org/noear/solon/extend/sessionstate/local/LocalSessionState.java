@@ -1,8 +1,8 @@
 package org.noear.solon.extend.sessionstate.local;
 
 import org.noear.solon.XUtil;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XSessionState;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XSessionState;
 
 
 /**

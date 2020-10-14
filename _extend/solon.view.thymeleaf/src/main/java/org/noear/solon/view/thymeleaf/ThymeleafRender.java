@@ -2,10 +2,9 @@ package org.noear.solon.view.thymeleaf;
 
 import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
-import org.noear.solon.core.Aop;
-import org.noear.solon.core.ModelAndView;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XRender;
+import org.noear.solon.web.ModelAndView;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XRender;
 import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.context.Context;
 import org.thymeleaf.templatemode.TemplateMode;
@@ -14,7 +13,6 @@ import org.thymeleaf.templateresolver.FileTemplateResolver;
 
 import java.io.File;
 import java.io.PrintWriter;
-import java.io.StringWriter;
 import java.net.URI;
 import java.util.HashMap;
 import java.util.Map;

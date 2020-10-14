@@ -2,8 +2,8 @@ package webapp.demo1_handler;
 
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 
 /**
  * 简单的http处理

@@ -2,11 +2,9 @@ package org.noear.solon.extend.staticfiles;
 
 import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
-import org.noear.solon.core.XHandlerLink;
+import org.noear.solon.web.XHandlerLink;
 import org.noear.solon.core.XMap;
 import org.noear.solon.core.XPlugin;
-
-import java.util.Properties;
 
 public class XPluginImp implements XPlugin {
     @Override

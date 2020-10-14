@@ -3,8 +3,8 @@ package org.noear.solon.serialization.hession;
 
 import com.caucho.hessian.io.SerializerFactory;
 import com.caucho.hessian.server.HessianSkeleton;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 
 import java.io.InputStream;
 import java.io.OutputStream;

@@ -1,8 +1,7 @@
 package org.noear.solon.annotation;
 
-import org.noear.solon.core.TranIsolation;
-import org.noear.solon.core.TranPolicy;
-import org.noear.solon.extend.data.around.CacheRemoveInvokeHandler;
+import org.noear.solon.transaction.TranIsolation;
+import org.noear.solon.transaction.TranPolicy;
 import org.noear.solon.extend.data.around.TranInvokeHandler;
 
 import java.lang.annotation.ElementType;

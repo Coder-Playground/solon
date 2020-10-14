@@ -1,6 +1,6 @@
 package org.noear.solon.extend.validation.annotation;
 
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 /**
  *

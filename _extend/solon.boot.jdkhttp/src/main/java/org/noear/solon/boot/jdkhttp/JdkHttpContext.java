@@ -3,8 +3,8 @@ package org.noear.solon.boot.jdkhttp;
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import org.noear.solon.XUtil;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XFile;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XFile;
 import org.noear.solon.core.XMap;
 
 import java.io.ByteArrayOutputStream;

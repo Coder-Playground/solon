@@ -1,6 +1,7 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
 
 import org.noear.solon.XRouter;
+import org.noear.solon.core.XEndpoint;
 
 /**
  * XApp router Handler

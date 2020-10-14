@@ -1,5 +1,7 @@
 package org.noear.solon.core;
 
+import org.noear.solon.web.XSession;
+
 /**
  * XSocket 监听器
  *

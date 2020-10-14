@@ -1,9 +1,9 @@
 package org.noear.solon.extend.xsocket;
 
-import org.noear.solon.core.XContextEmpty;
+import org.noear.solon.web.XContextEmpty;
 import org.noear.solon.core.XMethod;
 import org.noear.solon.core.XMessage;
-import org.noear.solon.core.XSession;
+import org.noear.solon.web.XSession;
 
 import java.io.*;
 import java.net.InetSocketAddress;

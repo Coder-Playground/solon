@@ -1,8 +1,8 @@
 package webapp.demo5_rpc.rpc_provider;
 
 import org.noear.snack.ONode;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 import org.noear.solon.core.XMethod;
 
 import java.util.Map;

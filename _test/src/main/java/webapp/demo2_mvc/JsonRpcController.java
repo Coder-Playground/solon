@@ -2,7 +2,7 @@ package webapp.demo2_mvc;
 
 import org.noear.solon.annotation.XBean;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 import java.time.LocalDate;
 import java.util.Date;

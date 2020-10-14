@@ -7,8 +7,8 @@ import org.noear.fairy.encoder.SnackEncoder;
 import org.noear.solon.XApp;
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 import webapp.utils.SocketChannel;
 
 import java.util.HashMap;

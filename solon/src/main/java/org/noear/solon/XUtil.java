@@ -1,6 +1,7 @@
 package org.noear.solon;
 
 import org.noear.solon.core.*;
+import org.noear.solon.web.PathAnalyzer;
 
 import java.io.*;
 import java.lang.reflect.InvocationTargetException;

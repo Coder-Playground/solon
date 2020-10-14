@@ -2,8 +2,8 @@ package org.noear.solon.boot.smarthttp.http;
 
 import org.noear.solon.core.XMap;
 import org.noear.solon.XUtil;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XFile;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XFile;
 import org.smartboot.http.HttpRequest;
 import org.smartboot.http.HttpResponse;
 import org.smartboot.http.enums.HttpStatus;

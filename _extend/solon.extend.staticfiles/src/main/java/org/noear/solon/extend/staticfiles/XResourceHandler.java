@@ -3,6 +3,8 @@ package org.noear.solon.extend.staticfiles;
 import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
 import org.noear.solon.core.*;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 
 import java.io.File;
 import java.net.URI;

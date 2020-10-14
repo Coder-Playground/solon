@@ -2,7 +2,7 @@ package webapp.demoa_interceptor;
 
 import org.noear.solon.core.InvokeChain;
 import org.noear.solon.core.InvokeHandler;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;

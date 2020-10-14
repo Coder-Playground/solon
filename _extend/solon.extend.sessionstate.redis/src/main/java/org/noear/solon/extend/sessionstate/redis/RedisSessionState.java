@@ -5,9 +5,9 @@ import org.noear.snack.core.Constants;
 import org.noear.snack.core.Feature;
 import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 import org.noear.solon.core.XMap;
-import org.noear.solon.core.XSessionState;
+import org.noear.solon.web.XSessionState;
 
 /**
  * 它会是个单例，不能有上下文数据

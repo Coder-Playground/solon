@@ -3,7 +3,7 @@ package org.noear.solon.extend.beetlsql;
 import org.beetl.sql.clazz.kit.BeetlSQLException;
 import org.beetl.sql.core.DefaultConnectionSource;
 import org.beetl.sql.core.ExecuteContext;
-import org.noear.solon.core.XTranUtils;
+import org.noear.solon.transaction.XTranUtils;
 
 import javax.sql.DataSource;
 import java.sql.Connection;

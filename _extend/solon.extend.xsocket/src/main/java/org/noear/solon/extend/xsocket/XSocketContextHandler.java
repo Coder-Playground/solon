@@ -4,7 +4,7 @@ import org.noear.solon.XApp;
 import org.noear.solon.core.XEventBus;
 import org.noear.solon.core.XMethod;
 import org.noear.solon.core.XMessage;
-import org.noear.solon.core.XSession;
+import org.noear.solon.web.XSession;
 
 /**
  * XSocket 上下文处理者

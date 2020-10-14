@@ -3,7 +3,7 @@ package org.noear.solon.extend.xsocket;
 import org.noear.solon.XApp;
 import org.noear.solon.core.XListener;
 import org.noear.solon.core.XMessage;
-import org.noear.solon.core.XSession;
+import org.noear.solon.web.XSession;
 
 /**
  * XSocket 监听者代理

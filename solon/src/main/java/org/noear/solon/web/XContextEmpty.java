@@ -1,11 +1,11 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
+
+import org.noear.solon.core.XMap;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.URI;
-import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
 import java.util.*;
 
 /**

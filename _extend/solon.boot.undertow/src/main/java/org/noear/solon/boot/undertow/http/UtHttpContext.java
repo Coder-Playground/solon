@@ -2,6 +2,9 @@ package org.noear.solon.boot.undertow.http;
 
 import org.noear.solon.XUtil;
 import org.noear.solon.core.*;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XFile;
+import org.noear.solon.web.XSessionState;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;

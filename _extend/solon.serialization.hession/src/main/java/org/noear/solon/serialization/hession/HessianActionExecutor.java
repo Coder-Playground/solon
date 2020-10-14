@@ -1,8 +1,8 @@
 package org.noear.solon.serialization.hession;
 
 import com.caucho.hessian.io.Hessian2Input;
-import org.noear.solon.core.XActionExecutorDefault;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XActionExecutorDefault;
+import org.noear.solon.web.XContext;
 
 import java.io.ByteArrayInputStream;
 import java.lang.reflect.Parameter;

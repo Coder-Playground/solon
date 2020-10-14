@@ -1,11 +1,5 @@
 package webapp.demoh_xsocket;
 
-import org.noear.solon.XApp;
-import org.noear.solon.core.XMethod;
-import org.noear.solon.core.XListener;
-import org.noear.solon.core.XMessage;
-import org.noear.solon.core.XSession;
-import org.noear.solon.annotation.XServerEndpoint;
 //
 //@XServerEndpoint(value = "/demoe/websocket")
 //public class XSocketListenerImp implements XListener {

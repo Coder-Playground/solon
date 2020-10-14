@@ -1,4 +1,4 @@
-package org.noear.solon.core;
+package org.noear.solon.cache;
 
 public interface CacheService {
     /**

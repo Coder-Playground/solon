@@ -1,9 +1,10 @@
 package org.noear.solon.extend.data;
 
 import org.noear.solon.annotation.XTran;
-import org.noear.solon.core.*;
 import org.noear.solon.ext.RunnableEx;
 import org.noear.solon.extend.data.trans.*;
+import org.noear.solon.transaction.TranPolicy;
+import org.noear.solon.transaction.XTranExecutor;
 
 import javax.sql.DataSource;
 import java.sql.Connection;

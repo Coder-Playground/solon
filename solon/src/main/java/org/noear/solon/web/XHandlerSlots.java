@@ -1,4 +1,6 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
+
+import org.noear.solon.core.XMethod;
 
 /**
  * 通用处理接口接收槽

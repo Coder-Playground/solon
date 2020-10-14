@@ -3,8 +3,7 @@ package webapp.demo2_mvc;
 import org.noear.solon.annotation.XMapping;
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XSingleton;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XMethod;
+import org.noear.solon.web.XContext;
 
 @XSingleton(false)
 @XMapping("/demo2/mapping")

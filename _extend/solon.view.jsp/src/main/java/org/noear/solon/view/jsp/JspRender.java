@@ -2,9 +2,9 @@ package org.noear.solon.view.jsp;
 
 import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
-import org.noear.solon.core.ModelAndView;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XRender;
+import org.noear.solon.web.ModelAndView;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XRender;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

@@ -2,7 +2,7 @@ package webapp.demo2_mvc;
 
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 @XMapping("/demo2/session")
 @XController

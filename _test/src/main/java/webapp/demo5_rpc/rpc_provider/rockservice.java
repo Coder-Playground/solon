@@ -3,7 +3,7 @@ package webapp.demo5_rpc.rpc_provider;
 import org.noear.solon.annotation.XBean;
 import org.noear.solon.annotation.XBefore;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 import org.noear.solon.core.XMethod;
 import webapp.demo5_rpc.rockapi;
 import webapp.models.UserModel;

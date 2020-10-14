@@ -1,6 +1,7 @@
-package org.noear.solon.core;
+package org.noear.solon.transaction;
 
 import org.noear.solon.annotation.XNote;
+import org.noear.solon.core.XBridge;
 
 import javax.sql.DataSource;
 import java.sql.Connection;

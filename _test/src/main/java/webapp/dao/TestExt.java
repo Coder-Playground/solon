@@ -2,7 +2,7 @@ package webapp.dao;
 
 import org.noear.solon.XApp;
 import org.noear.solon.annotation.XBean;
-import org.noear.solon.core.XAction;
+import org.noear.solon.web.XAction;
 import org.noear.solon.core.XPlugin;
 import webapp.demo2_mvc.MappingController;
 import webapp.demo2_mvc.ParamController;

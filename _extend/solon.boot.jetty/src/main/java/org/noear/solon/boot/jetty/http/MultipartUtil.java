@@ -1,7 +1,7 @@
 package org.noear.solon.boot.jetty.http;
 
 
-import org.noear.solon.core.XFile;
+import org.noear.solon.web.XFile;
 
 import javax.servlet.MultipartConfigElement;
 import javax.servlet.ServletException;

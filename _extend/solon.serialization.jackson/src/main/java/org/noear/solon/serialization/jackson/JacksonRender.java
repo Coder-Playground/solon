@@ -2,8 +2,8 @@ package org.noear.solon.serialization.jackson;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XRender;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XRender;
 
 public class JacksonRender implements XRender {
     ObjectMapper mapper = new ObjectMapper();

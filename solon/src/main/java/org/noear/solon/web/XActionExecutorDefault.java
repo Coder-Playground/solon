@@ -1,4 +1,8 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
+
+import org.noear.solon.core.ClassWrap;
+import org.noear.solon.core.MethodWrap;
+import org.noear.solon.core.TypeUtil;
 
 import java.lang.reflect.Parameter;
 import java.util.ArrayList;

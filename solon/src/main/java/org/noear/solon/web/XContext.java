@@ -1,8 +1,9 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
 
-import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
 import org.noear.solon.annotation.XNote;
+import org.noear.solon.core.XBridge;
+import org.noear.solon.core.XMap;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

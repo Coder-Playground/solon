@@ -2,7 +2,7 @@ package org.noear.solon.boot.smarthttp.websocket;
 
 import org.noear.solon.core.XMessage;
 import org.noear.solon.core.XMethod;
-import org.noear.solon.core.XSession;
+import org.noear.solon.web.XSession;
 import org.smartboot.http.WebSocketRequest;
 import org.smartboot.http.WebSocketResponse;
 

@@ -3,7 +3,7 @@ package webapp.controller;
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
 import org.noear.solon.annotation.XSingleton;
-import org.noear.solon.core.ModelAndView;
+import org.noear.solon.web.ModelAndView;
 import org.noear.weed.DbContext;
 import webapp.dso.DbConfig;
 import webapp.dso.SqlAnnotation;

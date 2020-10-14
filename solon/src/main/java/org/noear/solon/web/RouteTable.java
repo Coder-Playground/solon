@@ -1,4 +1,6 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
+
+import org.noear.solon.core.XMethod;
 
 import java.util.ArrayList;
 import java.util.Collection;

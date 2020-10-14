@@ -2,9 +2,9 @@ package webapp.demo9_multiple_view;
 
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.ModelAndView;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.ModelAndView;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 
 @XMapping("/demo9/view/enjoy")
 @XController

@@ -1,8 +1,8 @@
 package org.noear.solon.serialization.protobuf;
 
 import io.edap.protobuf.ProtoBuf;
-import org.noear.solon.core.XActionExecutorDefault;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XActionExecutorDefault;
+import org.noear.solon.web.XContext;
 
 import java.lang.reflect.Parameter;
 import java.util.Map;

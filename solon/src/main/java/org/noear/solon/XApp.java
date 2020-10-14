@@ -5,6 +5,7 @@ import org.noear.solon.core.Aop;
 import org.noear.solon.core.*;
 import org.noear.solon.ext.*;
 import org.noear.solon.core.XListener;
+import org.noear.solon.web.*;
 
 import java.lang.annotation.Annotation;
 import java.util.*;
@@ -14,7 +15,7 @@ import java.util.function.Consumer;
 /**
  * 应用管理中心
  * */
-public class XApp implements XHandler,XHandlerSlots {
+public class XApp implements XHandler, XHandlerSlots {
     private static XApp _global;
 
     /**

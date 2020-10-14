@@ -1,4 +1,4 @@
-package org.noear.solon.core;
+package org.noear.solon.transaction;
 
 /**
  * 事务隔离级别

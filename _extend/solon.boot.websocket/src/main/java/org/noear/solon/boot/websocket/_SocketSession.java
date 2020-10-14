@@ -2,7 +2,7 @@ package org.noear.solon.boot.websocket;
 
 import org.java_websocket.WebSocket;
 import org.noear.solon.core.XMethod;
-import org.noear.solon.core.XSession;
+import org.noear.solon.web.XSession;
 import org.noear.solon.core.XMessage;
 
 import java.io.IOException;

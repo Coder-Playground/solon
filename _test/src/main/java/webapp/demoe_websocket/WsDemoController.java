@@ -3,8 +3,8 @@ package webapp.demoe_websocket;
 import org.noear.solon.XApp;
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.ModelAndView;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.ModelAndView;
+import org.noear.solon.web.XContext;
 import org.noear.solon.core.XMethod;
 
 @XController

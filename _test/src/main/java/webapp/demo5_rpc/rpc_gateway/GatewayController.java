@@ -3,7 +3,7 @@ package webapp.demo5_rpc.rpc_gateway;
 import org.noear.fairy.Fairy;
 import org.noear.solon.annotation.XMapping;
 import org.noear.solon.annotation.XController;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 //用普通控制器，手动实现一个网关
 @XController

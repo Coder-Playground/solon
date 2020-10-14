@@ -1,13 +1,14 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
 
 import org.noear.solon.XUtil;
 import org.noear.solon.annotation.*;
+import org.noear.solon.core.Aop;
+import org.noear.solon.core.BeanWrap;
+import org.noear.solon.core.XMethod;
 import org.noear.solon.ext.ConsumerEx;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Web Bean 包装

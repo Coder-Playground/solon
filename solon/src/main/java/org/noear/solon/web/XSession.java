@@ -1,4 +1,7 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
+
+import org.noear.solon.core.XMessage;
+import org.noear.solon.core.XMethod;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

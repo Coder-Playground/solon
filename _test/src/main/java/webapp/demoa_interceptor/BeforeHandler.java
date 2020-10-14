@@ -1,7 +1,7 @@
 package webapp.demoa_interceptor;
 
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 
 public class BeforeHandler implements XHandler {
     @Override

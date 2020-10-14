@@ -1,8 +1,9 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
 
 import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
 import org.noear.solon.annotation.XMapping;
+import org.noear.solon.core.*;
 import org.noear.solon.ext.RunnableEx;
 
 import java.lang.reflect.Method;

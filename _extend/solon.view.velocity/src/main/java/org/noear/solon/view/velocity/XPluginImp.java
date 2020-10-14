@@ -4,7 +4,6 @@ import org.apache.velocity.runtime.directive.Directive;
 import org.noear.solon.XApp;
 import org.noear.solon.core.Aop;
 import org.noear.solon.core.XBridge;
-import org.noear.solon.core.XRenderManager;
 import org.noear.solon.core.XPlugin;
 
 public class XPluginImp implements XPlugin {

@@ -2,7 +2,7 @@ package webapp.demoa_interceptor;
 
 import org.noear.solon.annotation.XInterceptor;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 
 @XInterceptor

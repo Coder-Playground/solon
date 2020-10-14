@@ -2,7 +2,7 @@ package org.noear.solon.boot.undertow.jsp;
 
 import io.undertow.servlet.api.ServletInfo;
 import org.apache.jasper.servlet.JspServlet;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;

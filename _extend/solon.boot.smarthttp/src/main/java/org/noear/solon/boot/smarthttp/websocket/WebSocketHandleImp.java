@@ -3,6 +3,7 @@ package org.noear.solon.boot.smarthttp.websocket;
 import org.noear.solon.core.*;
 import org.noear.solon.extend.xsocket.XListenerProxy;
 import org.noear.solon.extend.xsocket.XSocketContextHandler;
+import org.noear.solon.web.XSession;
 import org.smartboot.http.WebSocketRequest;
 import org.smartboot.http.WebSocketResponse;
 import org.smartboot.http.server.handle.WebSocketDefaultHandle;

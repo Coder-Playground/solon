@@ -1,4 +1,4 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
 
 /**
  * 处理助手，提供处理链的存储

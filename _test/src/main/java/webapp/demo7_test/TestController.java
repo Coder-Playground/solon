@@ -2,7 +2,7 @@ package webapp.demo7_test;
 
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 @XController
 public class TestController {

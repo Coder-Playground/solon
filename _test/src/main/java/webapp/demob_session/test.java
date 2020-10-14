@@ -2,7 +2,7 @@ package webapp.demob_session;
 
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 
 import java.util.Date;
 

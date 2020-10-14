@@ -4,6 +4,7 @@ import io.undertow.websockets.core.*;
 import org.noear.solon.core.*;
 import org.noear.solon.extend.xsocket.XListenerProxy;
 import org.noear.solon.extend.xsocket.XSocketContextHandler;
+import org.noear.solon.web.XSession;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

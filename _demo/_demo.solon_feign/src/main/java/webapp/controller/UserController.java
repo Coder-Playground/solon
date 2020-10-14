@@ -2,7 +2,7 @@ package webapp.controller;
 
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 import webapp.model.User;
 
 import java.util.Arrays;

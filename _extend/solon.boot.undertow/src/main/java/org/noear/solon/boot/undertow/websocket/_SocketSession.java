@@ -4,7 +4,7 @@ import io.undertow.websockets.core.WebSocketChannel;
 import io.undertow.websockets.core.WebSockets;
 
 import org.noear.solon.core.XMethod;
-import org.noear.solon.core.XSession;
+import org.noear.solon.web.XSession;
 import org.noear.solon.core.XMessage;
 
 import java.io.IOException;

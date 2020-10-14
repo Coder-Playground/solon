@@ -4,6 +4,7 @@ import org.noear.solon.annotation.XMapping;
 import org.noear.solon.annotation.XNote;
 import org.noear.solon.core.*;
 import org.noear.solon.ext.RunnableEx;
+import org.noear.solon.web.*;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -2,8 +2,8 @@ package org.noear.solon.boot.smarthttp.http;
 
 
 import org.noear.solon.XUtil;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 
 import java.net.URLDecoder;
 

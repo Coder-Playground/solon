@@ -1,5 +1,7 @@
 package org.noear.solon.core;
 
+import org.noear.solon.web.XContext;
+
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;

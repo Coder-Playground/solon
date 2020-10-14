@@ -1,12 +1,12 @@
 package org.noear.solon.core;
 
-class InvokeHolder implements InvokeChain {
+class InvokeEntity implements InvokeChain {
     public final int index;
     public final InvokeHandler handler;
     public InvokeChain next;
     private MethodWrap mw;
 
-    InvokeHolder(MethodWrap m, int i, InvokeHandler h) {
+    InvokeEntity(MethodWrap m, int i, InvokeHandler h) {
         index = i;
         handler = h;
         mw = m;

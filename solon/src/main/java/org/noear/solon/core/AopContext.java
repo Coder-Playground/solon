@@ -6,6 +6,7 @@ import org.noear.solon.annotation.*;
 import org.noear.solon.annotation.XServerEndpoint;
 import org.noear.solon.event.BeanLoadedEvent;
 import org.noear.solon.ext.BiConsumerEx;
+import org.noear.solon.web.BeanWebWrap;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Parameter;

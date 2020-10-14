@@ -4,6 +4,7 @@ import org.noear.solon.core.*;
 
 import org.noear.solon.extend.xsocket.XListenerProxy;
 import org.noear.solon.extend.xsocket.XSocketContextHandler;
+import org.noear.solon.web.XSession;
 import org.smartboot.socket.MessageProcessor;
 import org.smartboot.socket.StateMachineEnum;
 import org.smartboot.socket.transport.AioSession;

@@ -2,6 +2,9 @@ package org.noear.solon.boot.jetty.http;
 
 import org.noear.solon.core.*;
 import org.noear.solon.XUtil;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XFile;
+import org.noear.solon.web.XSessionState;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
@@ -13,7 +16,7 @@ import java.net.URI;
 import java.nio.charset.Charset;
 import java.util.*;
 
-public class JtHttpContext extends XContext{
+public class JtHttpContext extends XContext {
     private HttpServletRequest _request;
     private HttpServletResponse _response;
     protected Map<String,List<XFile>> _fileMap;

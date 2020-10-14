@@ -1,4 +1,4 @@
-package org.noear.solon.core;
+package org.noear.solon.web;
 
 import org.noear.solon.XUtil;
 import org.noear.solon.ext.PrintUtil;

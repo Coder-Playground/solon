@@ -1,7 +1,7 @@
 package org.noear.solon.boot.jlhttp;
 
 
-import org.noear.solon.core.XFile;
+import org.noear.solon.web.XFile;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

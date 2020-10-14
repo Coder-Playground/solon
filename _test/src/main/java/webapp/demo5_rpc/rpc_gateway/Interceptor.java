@@ -4,8 +4,8 @@ import org.noear.solon.annotation.XAfter;
 import org.noear.solon.annotation.XBefore;
 import org.noear.solon.annotation.XInterceptor;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XHandler;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
 
 @XAfter({Interceptor.ApiIntercepter.class})
 @XBefore({ Interceptor.AuthInterceptor.class})

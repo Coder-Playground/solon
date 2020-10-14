@@ -2,8 +2,11 @@ package org.noear.solon.extend.validation;
 
 import org.noear.solon.XUtil;
 import org.noear.solon.annotation.XNote;
-import org.noear.solon.core.*;
 import org.noear.solon.extend.validation.annotation.*;
+import org.noear.solon.web.XAction;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XHandler;
+import org.noear.solon.web.XResult;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Parameter;

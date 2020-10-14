@@ -6,9 +6,9 @@ import org.apache.velocity.app.Velocity;
 import org.apache.velocity.app.VelocityEngine;
 import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
-import org.noear.solon.core.ModelAndView;
-import org.noear.solon.core.XRender;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.ModelAndView;
+import org.noear.solon.web.XRender;
+import org.noear.solon.web.XContext;
 
 import java.io.File;
 import java.io.PrintWriter;

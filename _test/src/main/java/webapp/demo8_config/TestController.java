@@ -4,7 +4,7 @@ import org.noear.solon.XApp;
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XInject;
 import org.noear.solon.annotation.XMapping;
-import org.noear.solon.core.XContext;
+import org.noear.solon.web.XContext;
 import webapp.models.UserModel;
 
 @XController

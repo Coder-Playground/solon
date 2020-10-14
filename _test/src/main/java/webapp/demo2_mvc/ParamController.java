@@ -4,8 +4,8 @@ import org.noear.solon.annotation.XMapping;
 import org.noear.solon.annotation.XParam;
 import org.noear.solon.annotation.XController;
 import org.noear.solon.annotation.XSingleton;
-import org.noear.solon.core.XContext;
-import org.noear.solon.core.XFile;
+import org.noear.solon.web.XContext;
+import org.noear.solon.web.XFile;
 import org.noear.solon.core.XMethod;
 import webapp.models.UserModel;
 
