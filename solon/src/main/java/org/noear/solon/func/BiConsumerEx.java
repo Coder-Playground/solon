@@ -1,4 +1,4 @@
-package org.noear.solon.function;
+package org.noear.solon.func;
 
 @FunctionalInterface
 public interface BiConsumerEx<T1,T2> {
