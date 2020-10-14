@@ -3,7 +3,7 @@ package org.noear.solon.boot.jdkhttp;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import org.noear.solon.XApp;
-import org.noear.solon.core.XEventBus;
+import org.noear.solon.event.XEventBus;
 
 public class JdkHttpContextHandler implements HttpHandler {
     @Override

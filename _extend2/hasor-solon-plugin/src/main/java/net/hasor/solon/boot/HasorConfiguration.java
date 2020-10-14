@@ -7,7 +7,7 @@ import net.hasor.utils.StringUtils;
 import org.noear.solon.XApp;
 import org.noear.solon.annotation.XConfiguration;
 import org.noear.solon.core.Aop;
-import org.noear.solon.core.XEventListener;
+import org.noear.solon.event.XEventListener;
 import org.noear.solon.event.BeanLoadedEvent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

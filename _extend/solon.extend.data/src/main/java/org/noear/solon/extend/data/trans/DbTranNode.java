@@ -1,6 +1,6 @@
 package org.noear.solon.extend.data.trans;
 
-import org.noear.solon.core.XEventBus;
+import org.noear.solon.event.XEventBus;
 import org.noear.solon.extend.data.TranNode;
 
 import java.util.ArrayList;

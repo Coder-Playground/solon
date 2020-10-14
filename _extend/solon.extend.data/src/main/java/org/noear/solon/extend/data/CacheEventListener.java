@@ -3,7 +3,7 @@ package org.noear.solon.extend.data;
 import org.noear.solon.XUtil;
 import org.noear.solon.core.BeanWrap;
 import org.noear.solon.cache.CacheService;
-import org.noear.solon.core.XEventListener;
+import org.noear.solon.event.XEventListener;
 
 class CacheEventListener implements XEventListener<BeanWrap> {
     @Override

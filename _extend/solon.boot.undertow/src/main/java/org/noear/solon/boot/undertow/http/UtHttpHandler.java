@@ -5,7 +5,7 @@ import io.undertow.server.HttpServerExchange;
 import io.undertow.servlet.handlers.ServletRequestContext;
 import org.noear.solon.XApp;
 import org.noear.solon.boot.undertow.XPluginImp;
-import org.noear.solon.core.XEventBus;
+import org.noear.solon.event.XEventBus;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

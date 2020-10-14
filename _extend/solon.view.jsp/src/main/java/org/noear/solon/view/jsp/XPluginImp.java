@@ -4,7 +4,7 @@ import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
 import org.noear.solon.core.XBridge;
 import org.noear.solon.core.XPlugin;
-import org.noear.solon.ext.PrintUtil;
+import org.noear.solon.core.PrintUtil;
 
 public class XPluginImp implements XPlugin {
     public static boolean output_meta = false;

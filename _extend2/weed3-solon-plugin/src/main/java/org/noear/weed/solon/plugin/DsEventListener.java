@@ -1,7 +1,7 @@
 package org.noear.weed.solon.plugin;
 
 import org.noear.solon.core.BeanWrap;
-import org.noear.solon.core.XEventListener;
+import org.noear.solon.event.XEventListener;
 
 import javax.sql.DataSource;
 

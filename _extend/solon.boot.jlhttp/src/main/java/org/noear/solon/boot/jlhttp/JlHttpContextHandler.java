@@ -1,7 +1,7 @@
 package org.noear.solon.boot.jlhttp;
 
 import org.noear.solon.XApp;
-import org.noear.solon.core.XEventBus;
+import org.noear.solon.event.XEventBus;
 
 import java.io.IOException;
 

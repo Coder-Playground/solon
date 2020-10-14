@@ -4,7 +4,8 @@ import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
 import org.noear.solon.annotation.XMapping;
 import org.noear.solon.core.*;
-import org.noear.solon.ext.RunnableEx;
+import org.noear.solon.event.XEventBus;
+import org.noear.solon.functions.RunnableEx;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;

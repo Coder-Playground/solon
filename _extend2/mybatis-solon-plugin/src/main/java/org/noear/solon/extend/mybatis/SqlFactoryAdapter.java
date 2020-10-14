@@ -13,7 +13,7 @@ import org.noear.solon.XApp;
 import org.noear.solon.XUtil;
 import org.noear.solon.core.Aop;
 import org.noear.solon.core.BeanWrap;
-import org.noear.solon.core.XEventBus;
+import org.noear.solon.event.XEventBus;
 import org.noear.solon.core.XScaner;
 
 import javax.sql.DataSource;

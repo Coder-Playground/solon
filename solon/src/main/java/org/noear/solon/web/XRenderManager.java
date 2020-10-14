@@ -1,7 +1,7 @@
 package org.noear.solon.web;
 
 import org.noear.solon.XUtil;
-import org.noear.solon.ext.PrintUtil;
+import org.noear.solon.core.PrintUtil;
 
 import java.util.HashMap;
 import java.util.Map;

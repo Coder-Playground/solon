@@ -6,7 +6,7 @@ import org.beetl.sql.core.SQLManagerBuilder;
 import org.noear.solon.XUtil;
 import org.noear.solon.core.Aop;
 import org.noear.solon.core.BeanWrap;
-import org.noear.solon.core.XEventBus;
+import org.noear.solon.event.XEventBus;
 
 import javax.sql.DataSource;
 import java.util.Map;

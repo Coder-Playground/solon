@@ -3,7 +3,7 @@ package org.noear.solon.boot.jetty.http;
 import org.noear.solon.XApp;
 import org.noear.solon.boot.jetty.XPluginImp;
 import org.noear.solon.boot.jetty.XServerProp;
-import org.noear.solon.core.XEventBus;
+import org.noear.solon.event.XEventBus;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
