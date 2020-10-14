@@ -36,7 +36,7 @@ import org.jboss.metadata.web.spec.TldMetaData;
 import org.jboss.metadata.web.spec.VariableMetaData;
 import org.noear.solon.XUtil;
 import org.noear.solon.core.XScaner;
-import org.noear.solon.functions.SupplierEx;
+import org.noear.solon.function.SupplierEx;
 
 /**
  * Jsp Tld 定位器

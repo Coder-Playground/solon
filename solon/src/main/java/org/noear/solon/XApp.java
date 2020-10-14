@@ -5,7 +5,7 @@ import org.noear.solon.core.Aop;
 import org.noear.solon.core.*;
 import org.noear.solon.event.XEventBus;
 import org.noear.solon.event.XEventListener;
-import org.noear.solon.functions.*;
+import org.noear.solon.function.*;
 import org.noear.solon.core.XListener;
 import org.noear.solon.web.*;
 
