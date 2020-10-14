@@ -1,4 +1,4 @@
-package org.noear.solon.socketx;
+package org.noear.solon.socket;
 
 import org.noear.solon.web.XSession;
 

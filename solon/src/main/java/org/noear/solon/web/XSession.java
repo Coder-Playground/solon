@@ -1,6 +1,6 @@
 package org.noear.solon.web;
 
-import org.noear.solon.socketx.XMessage;
+import org.noear.solon.socket.XMessage;
 import org.noear.solon.core.XMethod;
 
 import java.io.IOException;

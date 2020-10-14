@@ -1,6 +1,6 @@
 package org.noear.solon.extend.xsocket;
 
-import org.noear.solon.socketx.XMessage;
+import org.noear.solon.socket.XMessage;
 
 import java.nio.ByteBuffer;
 

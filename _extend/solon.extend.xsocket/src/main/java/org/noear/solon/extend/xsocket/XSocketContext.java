@@ -2,7 +2,7 @@ package org.noear.solon.extend.xsocket;
 
 import org.noear.solon.web.XContextEmpty;
 import org.noear.solon.core.XMethod;
-import org.noear.solon.socketx.XMessage;
+import org.noear.solon.socket.XMessage;
 import org.noear.solon.web.XSession;
 
 import java.io.*;
