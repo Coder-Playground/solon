@@ -4,7 +4,6 @@ import org.noear.solon.annotation.XTran;
 import org.noear.solon.core.InvokeChain;
 import org.noear.solon.core.InvokeHandler;
 import org.noear.solon.core.ValHolder;
-import org.noear.solon.core.XBridge;
 import org.noear.solon.extend.data.TranExecutorImp;
 
 import java.lang.reflect.Method;

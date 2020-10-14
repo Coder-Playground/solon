@@ -4,7 +4,7 @@ import feign.Request;
 import feign.RequestTemplate;
 import feign.Target;
 import org.noear.solon.XUtil;
-import org.noear.solon.core.XUpstream;
+import org.noear.solon.upstream.XUpstream;
 
 public class FeignTarget<T> implements Target<T> {
     private final Class<T> type;

@@ -1,7 +1,7 @@
 package webapp.demo5_rpc;
 
 import org.noear.solon.annotation.XBean;
-import org.noear.solon.core.XUpstream;
+import org.noear.solon.upstream.XUpstream;
 
 /**
  * 定义一个负载器（可以对接发现服务）

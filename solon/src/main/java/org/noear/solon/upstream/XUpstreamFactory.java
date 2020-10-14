@@ -1,4 +1,4 @@
-package org.noear.solon.core;
+package org.noear.solon.upstream;
 
 /**
  * 负载器工厂

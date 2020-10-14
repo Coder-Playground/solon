@@ -8,6 +8,8 @@ import org.noear.solon.event.BeanLoadedEvent;
 import org.noear.solon.event.XEventBus;
 import org.noear.solon.event.XEventListener;
 import org.noear.solon.function.BiConsumerEx;
+import org.noear.solon.socketx.XListener;
+import org.noear.solon.upstream.XUpstreamFactory;
 import org.noear.solon.web.BeanWebWrap;
 
 import java.lang.annotation.Annotation;

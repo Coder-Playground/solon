@@ -1,6 +1,7 @@
 package org.noear.solon.extend.data;
 
 import org.noear.solon.XApp;
+import org.noear.solon.core.XBridge;
 import org.noear.solon.cache.CacheService;
 import org.noear.solon.core.*;
 

@@ -6,7 +6,7 @@ import org.noear.fairy.annotation.FairyClient;
 import org.noear.solon.XUtil;
 import org.noear.solon.core.Aop;
 import org.noear.solon.core.XBridge;
-import org.noear.solon.core.XUpstream;
+import org.noear.solon.upstream.XUpstream;
 
 public class FairyConfigurationSolon implements FairyConfiguration {
     @Override

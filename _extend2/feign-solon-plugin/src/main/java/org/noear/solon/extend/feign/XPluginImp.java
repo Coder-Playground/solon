@@ -4,8 +4,10 @@ import feign.Feign;
 import feign.Request;
 import feign.Retryer;
 import org.noear.solon.XApp;
+import org.noear.solon.core.XBridge;
 import org.noear.solon.XUtil;
 import org.noear.solon.core.*;
+import org.noear.solon.upstream.XUpstream;
 
 import java.util.function.Consumer;
 

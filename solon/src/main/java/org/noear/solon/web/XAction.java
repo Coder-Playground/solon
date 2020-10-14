@@ -1,6 +1,7 @@
 package org.noear.solon.web;
 
 import org.noear.solon.XApp;
+import org.noear.solon.core.XBridge;
 import org.noear.solon.XUtil;
 import org.noear.solon.annotation.XMapping;
 import org.noear.solon.core.*;

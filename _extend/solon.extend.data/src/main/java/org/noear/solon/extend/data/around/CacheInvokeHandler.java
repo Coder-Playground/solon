@@ -3,7 +3,6 @@ package org.noear.solon.extend.data.around;
 import org.noear.solon.annotation.XCache;
 import org.noear.solon.core.InvokeChain;
 import org.noear.solon.core.InvokeHandler;
-import org.noear.solon.core.XBridge;
 import org.noear.solon.extend.data.CacheExecutorImp;
 
 import java.lang.reflect.Method;
