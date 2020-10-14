@@ -1,4 +1,4 @@
-package org.noear.solon.func;
+package org.noear.solon.function;
 
 @FunctionalInterface
 public interface ConsumerEx<T> {

@@ -1,6 +1,9 @@
 package org.noear.solon;
 
 import org.noear.solon.core.*;
+import org.noear.solon.route.Route;
+import org.noear.solon.route.RouteTable;
+import org.noear.solon.route.XEndpoint;
 import org.noear.solon.socket.XListener;
 import org.noear.solon.web.*;
 

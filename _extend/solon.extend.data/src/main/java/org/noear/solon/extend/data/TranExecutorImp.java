@@ -1,7 +1,7 @@
 package org.noear.solon.extend.data;
 
 import org.noear.solon.annotation.XTran;
-import org.noear.solon.func.RunnableEx;
+import org.noear.solon.function.RunnableEx;
 import org.noear.solon.extend.data.trans.*;
 import org.noear.solon.transaction.TranPolicy;
 import org.noear.solon.transaction.XTranExecutor;

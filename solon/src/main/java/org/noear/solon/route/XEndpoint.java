@@ -1,4 +1,4 @@
-package org.noear.solon.core;
+package org.noear.solon.route;
 
 /**
  * 处理点（配合路由器使用）

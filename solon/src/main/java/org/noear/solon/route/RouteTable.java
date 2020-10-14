@@ -1,4 +1,4 @@
-package org.noear.solon.web;
+package org.noear.solon.route;
 
 import org.noear.solon.core.XMethod;
 
