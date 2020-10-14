@@ -1,4 +1,4 @@
-package org.noear.solon.route;
+package org.noear.solon.web;
 
 import org.noear.solon.core.XMethod;
 import org.noear.solon.web.PathAnalyzer;

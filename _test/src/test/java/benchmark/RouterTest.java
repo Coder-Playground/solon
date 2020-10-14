@@ -2,8 +2,8 @@ package benchmark;
 
 import org.junit.Test;
 import org.noear.solon.XRouter;
-import org.noear.solon.route.RouteTable;
-import org.noear.solon.route.XEndpoint;
+import org.noear.solon.web.RouteTable;
+import org.noear.solon.web.XEndpoint;
 import org.noear.solon.web.XHandler;
 import org.noear.solon.core.XMethod;
 
